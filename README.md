@@ -28,6 +28,7 @@ Notre API Bing nous donne des informations sur l'actualité.
 *******************************
 
 
-![image](https://github.com/user-attachments/assets/5dbafd68-dcd9-47bb-9aa2-0cacc35a873a)
+![image](https://github.com/user-attachments/assets/098adbd0-9671-4968-99c5-f91bd6d3f2c5)
+
 
 
