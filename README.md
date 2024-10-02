@@ -7,8 +7,8 @@ Dans ce projet initié par **Mr. K Talks Tech(https://www.youtube.com/watch?v=yH
 
 Notre API Bing nous donne des informations sur l'actualité.
 
-### Ce que nous faisons dans ce projet
-**************************************
+### Ce que nous faisons dans ce projet 📋
+*****************************************
 
 **1. Ingestion de données à partir de l'API Bing à l'aide de Data Factory**: Extraction de manière transparente des données de sources externes, dans notre cas notre **Api Bing** puis stockage en format JSON.
 
@@ -22,4 +22,11 @@ Notre API Bing nous donne des informations sur l'actualité.
 **6. Configuration d'alertes à l'aide de Data Activator**: Gardez une longueur d'avance sur les problèmes potentiels en configurant des alertes et des notifications dans vos visuels Power BI à l'aide d'un nouvel outil appelé **Data Activator**.
 
 **7. Test du pipeline de bout en bout** : Le flux complet sera testé depuis l'ingestion des données jusqu'à la transformation des données et jusqu'à ce que le rapport soit mis à jour avec les nouvelles données entrantes afin de valider l'intégrité et la performance de vos pipelines, en garantissant la fiabilité et la précision.
+
+### Architecture du Projet 📈
+*******************************
+
+
+![image](https://github.com/user-attachments/assets/5dbafd68-dcd9-47bb-9aa2-0cacc35a873a)
+
 
