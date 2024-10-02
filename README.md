@@ -14,6 +14,7 @@ Notre API Bing nous donne des informations sur l'actualité.
 **1. Ingestion de données à partir de l'API Bing à l'aide de Data Factory**: Extraction de manière transparente des données de sources externes, dans notre cas notre **Api Bing** puis stockage en format JSON.
 
 **2. Transformation des données à l'aide de Synapse Data Engineering** : Transformation de nos données JSON brutes en une table Delta curatée, y compris des techniques comme le chargement incrémentiel pour maintenir l'efficacité de vos processus.
+
 **3. Analyse des sentiments à l'aide de Synapse Data Science** : Analyse des données transformées  en prédisant le sentiment des nouvelles classées comme positives, négatives ou neutres.
 
 **4. Orchestration à l'aide de Data Factory via des pipelines** : Découverte de l'art d'orchestrer vos flux de données, en garantissant des opérations fluides et efficaces.
